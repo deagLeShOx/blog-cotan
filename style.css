@@ -1,0 +1,255 @@
+html{
+    font-family: 'Open Sans', sans-serif; 
+    font-style: normal;
+    color: #333;
+    font-size: 1em;
+}
+h1 h2 h3{
+    font-family: 'Open Sans', sans-serif;
+}
+.main-h2{
+    display: block;
+    float: left;
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-left: 332px;
+    margin-right: 128px;
+
+}
+header{
+    text-decoration: none;
+    text-align: center;
+    
+}
+p{
+    float:left;
+    margin-bottom: 30px;
+}
+
+p>b{
+    font-style: normal;
+    font-weight: 700; 
+}
+
+li a{
+    color: #000;
+}
+
+li a:hover{
+    color: #555;
+}
+.nav-menu>li a:active, :visited {
+    color: #000;
+}
+
+li a:focus{
+    color: #666661;
+}
+.mailbox{
+    position: relative;
+    float: right;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    margin-right: 180px;
+    margin-top: 100px;
+}
+.logo{
+    display: block;
+    width: 8%;
+    height: 11%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.call-phone{
+    position: absolute;
+    display: inline;
+    float: right;
+    margin-top: 45px;
+    margin-left: 150px;
+}
+.nav-menu li a{
+    display: inline;
+    float: left;
+    text-decoration: none;
+    font-family: "Arial", 'sans-serif';
+    font-weight: 600;
+    font-size: 32px;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-right: 50px;
+    
+}
+
+.image-content{
+    width: auto;
+    float:left;
+    margin-top: 90px;
+}
+
+aside{
+    float: left;
+    width: 450px;
+    height: auto;
+    display: block;
+    margin-top: 58px;
+    margin-left: 100px;
+    margin-right: 150px;
+}
+
+article{
+    float: right;
+    width: 400px;
+    height: auto;
+    margin-top: 58px;
+    margin-left: 0px;
+    margin-right: 100px;
+    
+}
+
+footer{
+    position: relative;
+    width:100%;
+    float:left;
+    border-top: solid 1px #000003;
+    background-color: #f5f5f5;
+}
+
+.design-by{
+    position: absolute;
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 0.5%;
+    margin-top: 90px;
+}
+.all-rights-reserved{
+    position: absolute;
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 89%;
+    margin-top: 90px;
+}
+
+.icon-github{
+    position: absolute;
+    float:left;
+    margin-left: 40%;
+    margin-top: 4%;
+}
+
+.icon-telegram{
+    position: absolute;
+    float: left;
+    margin-left: 51%;
+    margin-top: 4.3%;
+
+}
+
+.header-border{
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #000003;
+    margin-top: 11%;
+}
+
+.block-1{
+    float: left;
+    margin: 0px;
+}
+
+.block-2{
+    float: left;
+    margin: 0px;
+}
+
+
+/*Страница Gallery*/
+
+
+.image-content-1{
+    margin-top: 70px;
+    margin-left: -30px;
+}
+.image-content-2{
+    margin-top: 56px;
+    margin-left: 130px;
+
+}
+.image-content-3{
+    margin-top: 70px;
+    margin-left: -30px;
+}
+
+.image-content-4{
+    margin-top: 70px;
+    margin-left: 130px;
+}
+
+.image-content-5{
+    margin-top: 70px;
+    margin-left: -30px;
+}
+
+.image-content-6{
+    margin-top: 70px;
+    margin-left: 130px;   
+}
+
+.image-content-7{
+    margin-top: 70px;
+    margin-left: -30px;
+    margin-bottom: 70px;
+}
+
+.image-content-8{
+    margin-top: 70px;
+    margin-left: 130px;
+    margin-bottom: 70px;
+}
+
+/*Страница About Me*/
+
+.myau{
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 128px;
+}
+
+.about{
+    margin-left: 250px;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+.Tommy{
+    display: block; 
+    float: left;
+    margin-left:  350px;
+    margin-top: 30px;
+}
+
+.about-con{
+    font-style: italic;
+    margin-left: 250px;
+    margin-bottom: 0px;
+    margin-top: 20px;    
+}
+
+.maps-pic{
+    display: block; 
+    float: left;
+    margin-left:  250px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.address{
+    font-size: 1em;
+    margin-bottom: 30px;
+    margin-left: 250px;
+}
